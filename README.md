@@ -107,7 +107,7 @@ http://localhost:8501
 
 App layout:
 
-![image](assets/app-layout.png.png)
+![image](assets/app-layout.png)
 
 
 ## Conclusion
