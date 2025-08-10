@@ -16,7 +16,7 @@ Link:
 
 ## Libs
 ```
-streamlit==1.46.0,
+streamlit==1.46.0
 boto3==1.40.6
 python-dotenv==1.1.1
 pydantic==2.11.7
